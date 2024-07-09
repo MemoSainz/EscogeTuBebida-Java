@@ -7,7 +7,7 @@ public class App {
 
         // ¿Qué tipo de bebida te gusta?
         System.out.println("Bienvenido a la máquina expendora // Welcome to the vending machine");
-        System.out.println("Elige una opción:                 //  Chose an option:    ");
+        System.out.println("Elige una opción:                 //  Choose an option:    ");
         System.out.println("1 - Café                           / 1 - Coffee");
         System.out.println("2 - Mate                           / 2 - Mate");
         System.out.println("3 - Refresco                       / 3 - Soda");
